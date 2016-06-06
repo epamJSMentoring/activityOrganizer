@@ -4,10 +4,11 @@
   "description": "This boilerplate is here to give you a starting point for your meteor projects, with a console tool to ease up some tasks. Essential atmosphere packages are included to give you features like routing and collection schemas out-of-the-box.",
   "main": "main.js",
   "dependencies": {
-    "body-parser": "^1.15.1"
+    "body-parser": "^1.15.1",
+    "ejs": "^2.4.2",
+    "express": "^4.13.4"
   },
   "devDependencies": {
-    "express": "^4.13.4",
     "babel-cli": "^6.9.0",
     "webpack": "^1.13.1"
   },
